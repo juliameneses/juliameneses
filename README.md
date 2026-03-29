@@ -1,7 +1,7 @@
 ## 🌹 Olá, meu nome é Júlia!
 
 🌸 **Programadora de Games** e técnico em **Desenvolvimento de Sistemas**<br>
-🌸 Programador **Python** com **C++** e organizo banco de dados com **Postgres**<br>
+🌸 Programador **Python** com **C++** e organizo banco de dados com **PostgreSQL**<br>
 
 <div align="center">
   <img alt="madoka" height="150em" width="150em" src="https://github.com/user-attachments/assets/a67289f9-cdc4-478f-94ae-08e44a49403e" />
