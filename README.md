@@ -1,6 +1,6 @@
 ## 🌹 Hi there!
 
-🌸 **C++ and Python Programmer | Systems Development Student"**
+🌸 **C++ and Python Programmer | Systems Development Student**
 **"Tech enthusiast building a solid foundation in Defensive Security.**<br>
 
 <div align="center">
