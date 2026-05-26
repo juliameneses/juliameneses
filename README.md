@@ -1,7 +1,7 @@
 ## 🌹 Hi there!
 
 🌸 **C++ and Python Programmer | Systems Development Student**
-**"Tech enthusiast building a solid foundation in Defensive Security.**<br>
+**Tech enthusiast building a solid foundation in Defensive Security.**<br>
 
 <div align="center">
   <img alt="madoka" height="150em" width="150em" src="https://github.com/user-attachments/assets/a67289f9-cdc4-478f-94ae-08e44a49403e" />
