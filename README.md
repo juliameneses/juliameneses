@@ -5,7 +5,7 @@
 **Tech enthusiast building a solid foundation in Defensive Security.**<br>
 
 <div align="center">
-  <img alt="madoka" height="150em" width="150em" src="https://github.com/user-attachments/assets/a67289f9-cdc4-478f-94ae-08e44a49403e" />
+  <img alt="madoka" height="150em" width="150em" src="https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif" />
 </div>
 
 ## 💻 Languages
